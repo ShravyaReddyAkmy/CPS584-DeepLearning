@@ -4,3 +4,4 @@ LinearReg-1NN filter=lfs diff=lfs merge=lfs -text
 Correlation/HW-3.ipynb filter=lfs diff=lfs merge=lfs -text
 3LayerNN/HW-2.ipynb filter=lfs diff=lfs merge=lfs -text
 CatsAndDogs/HW-4.ipynb filter=lfs diff=lfs merge=lfs -text
+Animal[[:space:]]Image[[:space:]]Classification/hw5_tensor.ipynb filter=lfs diff=lfs merge=lfs -text
